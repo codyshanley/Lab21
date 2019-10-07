@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{82D66D28-527E-44B5-84DD-C077B5BD17AF}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab__21 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstMVCApp/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="FirstMVCApp/Controllers/HomeController.cs" Line="16" Column="10" />
+      <File FileName="FirstMVCApp/Controllers/ValidationController.cs" />
+      <File FileName="FirstMVCApp/Views/Shared/_Layout.cshtml" Line="28" Column="26" />
+      <File FileName="FirstMVCApp/Views/Home/Registration.cshtml" />
+      <File FileName="FirstMVCApp/Models/User.cs" />
+      <File FileName="FirstMVCApp/Views/Home/Result.cshtml" />
+      <File FileName="FirstMVCApp/Views/Home/Index.cshtml" />
+      <File FileName="FirstMVCApp/Models/ErrorViewModel.cs" />
+      <File FileName="FirstMVCApp/Views/Home/Contact.cshtml" />
+      <File FileName="FirstMVCApp/Views/Home/Privacy.cshtml" />
+      <File FileName="FirstMVCApp/appsettings.json" />
+      <File FileName="FirstMVCApp/appsettings.Development.json" />
+      <File FileName="FirstMVCApp/Program.cs" />
+      <File FileName="FirstMVCApp/Startup.cs" />
+      <File FileName="FirstMVCApp/Views/_ViewImports.cshtml" />
+      <File FileName="FirstMVCApp/Views/_ViewStart.cshtml" />
+      <File FileName="FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Validation/User.g.cshtml.cs" />
+      <File FileName="FirstMVCApp/Views/Shared/_CookieConsentPartial.cshtml" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
