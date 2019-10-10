@@ -1,17 +1,24 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="obj/Debug/netcoreapp2.1/Razor/Views/Validation/User.cshtml.g.cs">
+    <Files>
+      <File FileName="obj/Debug/netcoreapp2.1/Razor/Views/Validation/User.cshtml.g.cs" Line="148" Column="71" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Lab_21" expanded="True">
-            <Node name="Lab_21" selected="True" />
+          <Node name="Lab_21" expanded="True" selected="True">
+            <Node name="Lab_21" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>FirstMVCApp/Lab_21.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

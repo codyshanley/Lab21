@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/codyshanley/Projects/July2019ClassRepo-master 2/FirstMVCApp/FirstMVCApp/FirstMVCApp.csproj": {}
+    "/Users/codyshanley/Desktop/Lab21/FirstMVCApp/FirstMVCApp.csproj": {}
   },
   "projects": {
-    "/Users/codyshanley/Projects/July2019ClassRepo-master 2/FirstMVCApp/FirstMVCApp/FirstMVCApp.csproj": {
+    "/Users/codyshanley/Desktop/Lab21/FirstMVCApp/FirstMVCApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/codyshanley/Projects/July2019ClassRepo-master 2/FirstMVCApp/FirstMVCApp/FirstMVCApp.csproj",
+        "projectUniqueName": "/Users/codyshanley/Desktop/Lab21/FirstMVCApp/FirstMVCApp.csproj",
         "projectName": "FirstMVCApp",
-        "projectPath": "/Users/codyshanley/Projects/July2019ClassRepo-master 2/FirstMVCApp/FirstMVCApp/FirstMVCApp.csproj",
+        "projectPath": "/Users/codyshanley/Desktop/Lab21/FirstMVCApp/FirstMVCApp.csproj",
         "packagesPath": "/Users/codyshanley/.nuget/packages/",
-        "outputPath": "/Users/codyshanley/Projects/July2019ClassRepo-master 2/FirstMVCApp/FirstMVCApp/obj/",
+        "outputPath": "/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -51,6 +51,7 @@
               "version": "[2.1.2, )"
             },
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
@@ -61,10 +62,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

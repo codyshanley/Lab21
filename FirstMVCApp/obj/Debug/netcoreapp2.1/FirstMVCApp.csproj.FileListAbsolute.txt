@@ -38,3 +38,29 @@
 /Users/codyshanley/Projects/July2019ClassRepo-master 2/FirstMVCApp/FirstMVCApp/obj/Debug/netcoreapp2.1/FirstMVCApp.dll
 /Users/codyshanley/Projects/July2019ClassRepo-master 2/FirstMVCApp/FirstMVCApp/obj/Debug/netcoreapp2.1/FirstMVCApp.pdb
 /Users/codyshanley/Projects/July2019ClassRepo-master 2/FirstMVCApp/FirstMVCApp/obj/Debug/netcoreapp2.1/FirstMVCApp.csproj.CopyComplete
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/FirstMVCApp.csprojAssemblyReference.cache
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/FirstMVCApp.RazorAssemblyInfo.cache
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/FirstMVCApp.RazorAssemblyInfo.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/FirstMVCApp.AssemblyInfoInputs.cache
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/FirstMVCApp.AssemblyInfo.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/FirstMVCApp.TagHelpers.input.cache
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/FirstMVCApp.TagHelpers.output.cache
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/FirstMVCApp.RazorCoreGenerate.cache
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Home/Registration.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Home/Result.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Validation/ControllerSide.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Validation/DataAno.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Validation/Error.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Validation/Html5.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Validation/User.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/FirstMVCApp.RazorTargetAssemblyInfo.cache
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/FirstMVCApp.RazorTargetAssemblyInfo.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/FirstMVCApp.dll
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/FirstMVCApp.pdb

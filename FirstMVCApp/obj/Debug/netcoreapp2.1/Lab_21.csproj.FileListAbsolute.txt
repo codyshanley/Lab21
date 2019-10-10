@@ -34,3 +34,40 @@
 /Users/codyshanley/Projects/July2019ClassRepo-master 2/FirstMVCApp/FirstMVCApp/obj/Debug/netcoreapp2.1/Lab_21.dll
 /Users/codyshanley/Projects/July2019ClassRepo-master 2/FirstMVCApp/FirstMVCApp/obj/Debug/netcoreapp2.1/Lab_21.pdb
 /Users/codyshanley/Projects/July2019ClassRepo-master 2/FirstMVCApp/FirstMVCApp/obj/Debug/netcoreapp2.1/Lab_21.csproj.CopyComplete
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Lab_21.RazorAssemblyInfo.cache
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Lab_21.RazorAssemblyInfo.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Lab_21.AssemblyInfoInputs.cache
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Lab_21.AssemblyInfo.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Lab_21.TagHelpers.input.cache
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Lab_21.TagHelpers.output.cache
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Lab_21.RazorCoreGenerate.cache
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Home/Registration.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Home/Result.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Validation/ControllerSide.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Validation/DataAno.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Validation/Error.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Validation/Html5.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/Validation/User.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Lab_21.RazorTargetAssemblyInfo.cache
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Lab_21.RazorTargetAssemblyInfo.cs
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Lab_21.dll
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Lab_21.pdb
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/bin/Debug/netcoreapp2.1/Lab_21.deps.json
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/bin/Debug/netcoreapp2.1/Lab_21.runtimeconfig.json
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/bin/Debug/netcoreapp2.1/Lab_21.runtimeconfig.dev.json
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/bin/Debug/netcoreapp2.1/Lab_21.dll
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/bin/Debug/netcoreapp2.1/Lab_21.pdb
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/bin/Debug/netcoreapp2.1/Lab_21.Views.dll
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/bin/Debug/netcoreapp2.1/Lab_21.Views.pdb
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Lab_21.Views.pdb
+/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/Debug/netcoreapp2.1/Lab_21.csproj.CopyComplete
