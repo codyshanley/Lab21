@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/codyshanley/Desktop/Lab21/FirstMVCApp/Lab_21.csproj": {}
+    "\\\\Mac\\Home\\Desktop\\Lab25\\FirstMVCApp\\Lab_21.csproj": {}
   },
   "projects": {
-    "/Users/codyshanley/Desktop/Lab21/FirstMVCApp/Lab_21.csproj": {
+    "\\\\Mac\\Home\\Desktop\\Lab25\\FirstMVCApp\\Lab_21.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/codyshanley/Desktop/Lab21/FirstMVCApp/Lab_21.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Lab25\\FirstMVCApp\\Lab_21.csproj",
         "projectName": "Lab_21",
-        "projectPath": "/Users/codyshanley/Desktop/Lab21/FirstMVCApp/Lab_21.csproj",
-        "packagesPath": "/Users/codyshanley/.nuget/packages/",
-        "outputPath": "/Users/codyshanley/Desktop/Lab21/FirstMVCApp/obj/",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\Lab25\\FirstMVCApp\\Lab_21.csproj",
+        "packagesPath": "C:\\Users\\codyshanley\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\Lab25\\FirstMVCApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/codyshanley/.config/NuGet/NuGet.Config"
+          "C:\\Users\\codyshanley\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -71,7 +73,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
